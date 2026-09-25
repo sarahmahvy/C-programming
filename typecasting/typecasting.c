@@ -8,5 +8,5 @@ int main(){
     float b = 3.14;
     int result;
     result = (int)b;
-    printf("%d\n", result);
+    printf("%d\n", result); 
 }
