@@ -20,4 +20,12 @@ int main(){
         printf("%d",count);
         count ++;
     }
+
+    /* -DO-WHILE loop
+        >Similar to While loop but it executes the code block atleast once regardless of condition being true or false.
+        >Corresponds to REPEAT UNTIL in pseudocode.*/
+    do{
+        printf("%d\n",count);
+        count --;
+    } while(count != 0);
 }
