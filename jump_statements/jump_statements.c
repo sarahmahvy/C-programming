@@ -31,7 +31,7 @@ int main(){
      if (age < 0){
         goto start;
      }
-     printf("Your age is %d\n",age);
+     printf("Your age is %d\nCongratulations, you're human.",age);
      return 0;
 
 }
