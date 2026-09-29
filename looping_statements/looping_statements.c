@@ -27,5 +27,5 @@ int main(){
     do{
         printf("%d\n",count);
         count --;
-    } while(count != 0);
+    } while(count != 0); 
 }
